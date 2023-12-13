@@ -21,7 +21,7 @@ void main()
   else if(pizzaSize=='Large')
     {
       var result=pizzaQty*240;
-      print("Your Total Payment is:&result");
+      print("Your Total Payment is:$result");
     }
   else
     {
